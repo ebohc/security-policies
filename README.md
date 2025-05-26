@@ -88,9 +88,15 @@ These policies align with the following frameworks:
 
 ---
 
+## 📊 Policy-to-Framework Mapping
+
+- [📋 View Mapping Matrix (Markdown)](./mappings/policy-framework-mapping.md)
+- [📥 Download Full Excel File](./mappings/policy-framework-mapping.xlsx)
 ## 🤝 Contributions & Feedback
 
 Suggestions and contributions are welcome. These templates can be forked, adapted, or integrated into GRC programs and compliance audits.
+
+
 
 
 📫 **Let’s connect**: ebohc@protonmail.com
