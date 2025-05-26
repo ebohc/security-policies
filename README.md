@@ -1,19 +1,23 @@
 
-# 🛡️ Security Policy Templates
 
-This repository contains sample security policies developed for compliance with industry standards including ISO 27001, SOC 2, PCI DSS, and NIST CSF.
 
-## 📄 Included Policies
+# 🔐 Hi, I'm Chidie | **InfoSec and GRC (Governance, Risk, Compliance) Analyst**  
 
-- ✅ Acceptable Use Policy
-- 🚨 Incident Response Policy
-- 🤖 AI Security Policy
-- 🔍 Vendor Risk Management Policy
-- 🔁 Business Continuity & Disaster Recovery (BCP/DRP)
+### **🛡️ What I Do**  
+- Implement **NIST, ISO 27001, PCI DSS** controls  
+- Write **security policies & risk assessments**  
+- Automate compliance checks
+  
+> All templates are generalized and redact sensitive or proprietary data. These documents reflect my experience in developing security governance frameworks that are enforceable, scalable, and audit-ready
 
-> All templates are generalized and redact sensitive or proprietary data.
+### **📂 My Projects**  
+1. [Security Policies Repo](#) *(Template library for GRC teams)*  
+2. [Compliance Scripts](#) *(Coming soon: Automation for audits)*  
 
-## 🔐 Compliance Coverage
+### **📜 Certifications**  
+- `CRISC` | `ISO 27001 Lead Implementer`
+
+- ## 🔐 Compliance Coverage
 
 | Policy | Frameworks Aligned |
 |--------|--------------------|
@@ -23,6 +27,5 @@ This repository contains sample security policies developed for compliance with 
 | Vendor Risk | ISO 27036, SOC 2, PCI DSS |
 | BCP/DRP | ISO 22301, ISO 27031, NIST SP 800-34 |
 
----
+📫 **Let’s connect**: ebohc@protonmail.com
 
-These documents reflect my experience in developing security governance frameworks that are enforceable, scalable, and audit-ready.
