@@ -105,4 +105,4 @@ This repository is licensed under the [Creative Commons Attribution-NonCommercia
 Suggestions, forks, and feedback are welcome — these templates are meant to support other GRC professionals in their security journey.
 
 📫 **Email**: ebohc@protonmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/yourprofile](#) *(Add your link if you'd like)*
+
