@@ -1,108 +1,103 @@
-# 🔐 Hi, I'm Chidie | **Information Security & GRC Manager**
+# Security Policy Library
 
-### 🚀 Security Leadership | Compliance Strategy | Risk Governance
+A comprehensive suite of information security policies built to mirror 
+real-world enterprise practices. Developed by a GRC practitioner with 
+hands-on experience building defensible security programs from the ground up.
 
-As a security leader, I specialize in designing and operationalizing cybersecurity governance programs that are **scalable**, **audit-ready**, and **aligned to business goals**. My work spans the full GRC lifecycle—from policy design to risk assessment, compliance automation, and stakeholder reporting.
-
-I lead initiatives that align with industry frameworks like **NIST SP 800-53**, **NIST CSF**, **ISO/IEC 27001**, **PCI DSS**, and **CIS Controls** to support organizational risk posture and regulatory obligations.
-
-> All documents in this repository are generalized, de-identified, and provided for educational use. They reflect my hands-on leadership experience building defensible security programs from the ground up.
-
----
-
-## 📘 Information Security Policy Library
-
-This repository contains a comprehensive suite of **sample information security policies** developed to mirror real-world enterprise practices. These documents can serve as a **starting point** for maturing any organization’s security documentation.
+> All documents are generalized, de-identified, and provided for educational 
+> use only. No proprietary or confidential organizational data is included.
 
 ---
 
-## 🧭 Policy Domains
+## About
 
-### 🧱 Governance & Core Security
-- Information-Security-Policy.docx  
-- Risk-Assessment-Policy.docx  
+These policies cover the full GRC lifecycle — from governance and access control 
+to incident response, compliance, and resilience. They are designed as a practical 
+starting point for any organization maturing its security documentation.
+
+Framework alignment: NIST SP 800-53 Rev 5 · NIST CSF · ISO/IEC 27001:2022 · 
+CIS Controls v8 · PCI DSS v4.0
+
+---
+
+## Policy domains
+
+### Governance and core security
+- Information-Security-Policy.docx
+- Risk-Assessment-Policy.docx
 - Information-Security-Risk-Management-Standard.docx
 
-### 🔐 Identity & Access Management
-- Access-Control-Policy.docx  
-- Identification-and-Authentication-Policy.docx  
-- Account-Management-Access-Control-Standard.docx  
+### Identity and access management
+- Access-Control-Policy.docx
+- Identification-and-Authentication-Policy.docx
+- Account-Management-Access-Control-Standard.docx
 - Personnel-Security-Policy.docx
 
-### ⚠️ Incident Response & Threat Handling
-- Incident-Response-Policy.docx  
-- Cyber-Incident-Response-Standard.docx  
+### Incident response and threat handling
+- Incident-Response-Policy.docx
+- Cyber-Incident-Response-Standard.docx
 - Computer-Security-Threat-Response-Policy.docx
 
-### 💻 Endpoint & Device Security
-- Mobile-Device-Security.docx  
-- Media-Protection-Policy.docx  
-- Remote-Access-Standard.docx  
+### Endpoint and device security
+- Mobile-Device-Security.docx
+- Media-Protection-Policy.docx
+- Remote-Access-Standard.docx
 - Sanitization-Secure-Disposal-Standard.docx
 
-### ⚙️ Operations & Hardening
-- Patch-Management-Standard.docx  
-- Maintenance-Policy.docx  
-- Configuration-Management-Policy.docx  
-- Secure-Configuration-Standard.docx  
-- Secure-System-Development-Life-Cycle-Standard.docx  
+### Operations and hardening
+- Patch-Management-Standard.docx
+- Maintenance-Policy.docx
+- Configuration-Management-Policy.docx
+- Secure-Configuration-Standard.docx
+- Secure-System-Development-Life-Cycle-Standard.docx
 - Planning-Policy.docx
 
-### 📚 Awareness & Workforce Training
+### Awareness and training
 - Security-Awareness-and-Training-Policy.docx
 
-### 🏢 Procurement & Physical Controls
-- System-and-Services-Acquisition-Policy.docx  
+### Procurement and physical controls
+- System-and-Services-Acquisition-Policy.docx
 - Physical-and-Environmental-Protection-Policy.docx
 
-### 🔐 Data Protection
-- Encryption-Standard.docx  
+### Data protection
+- Encryption-Standard.docx
 - Information-Classification-Standard.docx
 
-### 📈 Monitoring & Integrity
-- Security-Logging-Standard.docx  
+### Monitoring and integrity
+- Security-Logging-Standard.docx
 - System-and-Information-Integrity-Policy.docx
 
-### 🧾 Auditing & Oversight
+### Auditing and oversight
 - Auditing-and-Accountability-Policy.docx
 
-### 🧰 Resilience & Recovery
+### Resilience and recovery
 - Contingency-Planning-Policy.docx
 
-### 🌐 Acceptable Use
+### Acceptable use
 - Acceptable-Use-of-Information-Technology-Resources-Policy.docx
 
 ---
 
-## ✅ Framework Alignment
+## Framework mapping
 
-These policies align with:
+Every policy in this library is mapped to the frameworks it satisfies.
 
-- NIST SP 800-53 Rev 5  
-- NIST Cybersecurity Framework  
-- ISO/IEC 27001:2022  
-- CIS Critical Security Controls v8  
-- PCI DSS v4.0 *(select domains)*
+- [View mapping matrix](./mappings/policy-framework-mapping.md)
+- [Download mapping (Excel)](./mappings/policy-framework-mapping.xlsx)
 
 ---
 
-## 📊 Policy-to-Framework Mapping
+## License
 
-- [📋 Markdown Matrix](./mappings/policy-framework-mapping.md)  
-- [📥 Download Mapping (Excel)](./mappings/policy-framework-mapping.xlsx)
-
----
-
-## 🔖 License
-
-This repository is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).  
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+Licensed under 
+[Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+Free to use and adapt for non-commercial purposes with attribution.
 
 ---
 
-## 🤝 Collaborate or Connect
+## Connect
 
-Suggestions, forks, and feedback are welcome — these templates are meant to support other GRC professionals in their security journey.
+Built for GRC professionals who need a practical, audit-ready starting point.
+Forks, suggestions, and feedback are welcome.
 
-📫 **Email**: ebohc@protonmail.com  
-
+Email: ebohc@protonmail.com
